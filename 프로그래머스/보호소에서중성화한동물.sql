@@ -1,0 +1,11 @@
+-- ins -> intaced from pot -> !=intacted
+SELECT A.ANIMAL_ID, A.ANIMAL_TYPE, A.NAME
+FROM (
+    SELECT *
+    FROM ANIMAL_INS I
+    WHERE SEX_UPON_INTAKE LIKE 'Intact%' ) A 
+JOIN (
+    SELECT *
+    FROM ANIMAL_OUTS
+    WHERE SEX_UPON_OUTCOME NOT LIKE 'Intact%') B
+USING(ANIMAL_ID)
