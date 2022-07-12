@@ -1,3 +1,4 @@
+--code
 SELECT months * salary, #1
        COUNT(*)
 FROM Employee
