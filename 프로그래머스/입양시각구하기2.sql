@@ -1,3 +1,4 @@
+-- 코드 입력
 WITH RECURSIVE num_hour(HOUR) AS (
 	SELECT 0
     UNION ALL 
