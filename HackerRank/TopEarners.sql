@@ -1,3 +1,4 @@
+--코드 입력 
 SELECT months * salary, #1
        COUNT(*)
 FROM Employee
