@@ -7,7 +7,7 @@
 ## ✔목적 
 
 1. 쿼리문 이론 복습
-
+Cancel changes
 2. 코딩 테스트 준비
 
 
@@ -16,7 +16,7 @@
 
 MySQL
 
-![image-20220716021709429](C:\Users\asd\AppData\Roaming\Typora\typora-user-images\image-20220716021709429.png)
+
 
 
 
