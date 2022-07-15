@@ -4,7 +4,7 @@
 
 
 
-## 목적 
+## ✔목적 
 
 1. 쿼리문 이론 복습
 
@@ -12,13 +12,15 @@
 
 
 
-## 사용 언어
+## ✔사용 언어
 
 MySQL
 
+![image-20220716021709429](C:\Users\asd\AppData\Roaming\Typora\typora-user-images\image-20220716021709429.png)
 
 
-## 코드 리뷰
+
+## ✔코드 리뷰
 
 [My Notion](https://husky-face-bab.notion.site/SQL-GITHUB-b501fa7bb04746c582045c6a5f4ed4d1)
 
@@ -26,11 +28,18 @@ MySQL
 
 
 
+## ✔이용 사이트 및 완료 여부
+
 | 사이트                                                       | 완료 여부  |
 | ------------------------------------------------------------ | ---------- |
 | [Programmers](https://school.programmers.co.kr/learn/challenges?tab=all_challenges) | Finish     |
 | [HackerRank](https://www.hackerrank.com/dashboard)           | Proceeding |
 | [LeetCode](https://leetcode.com/)                            | --         |
+
+
+
+
+
 
 
 
