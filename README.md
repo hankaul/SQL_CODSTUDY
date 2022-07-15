@@ -22,7 +22,7 @@ MySQL
 
 ## 코드 리뷰
 
-[My Notion](https://husky-face-bab.notion.site/SQL-GITHUB-b501fa7bb04746c582045c6a5f4ed4d1)
+[My Notion](https://husky-face-bab.notion.site/SQL-GITHUB-f818ef31adcb46a0998724a6e7634495)
 
 
 
